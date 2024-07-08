@@ -1,0 +1,13 @@
+header {
+    background: #004080; /* Example color */
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: left;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
